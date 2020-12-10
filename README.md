@@ -14,14 +14,15 @@
 
 # Database Info
 
-### Client: SQLite3
+**Client: SQLite3**
 
+<br />
 
 # How to use
 
 ### Download
 
-`git clone  server`
+`git clone https://github.com/MatheusCoxxxta/TypeScript-Node-Boilerplate.git server`
 <br/>
 
 ### Install
@@ -43,4 +44,4 @@
 
 # Author
 
-## [Matheus Costa](github.com/MatheusCoxxxta)
+**[Matheus Costa](github.com/MatheusCoxxxta)**
