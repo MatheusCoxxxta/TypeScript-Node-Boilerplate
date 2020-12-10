@@ -14,21 +14,14 @@
 
 # Database Info
 
-<br/>
-
 ### Client: SQLite3
-
-<br/>
-<br/>
 
 
 # How to use
-<br/>
 
 ### Download
 
 `git clone  server`
-<br/>
 <br/>
 
 ### Install
@@ -37,19 +30,15 @@
 
 `yarn install`
 <br/>
-<br/>
 
 ### Run
 
 `yarn start`
 <br/>
-<br/>
 
 ### Test
 
 `yarn test`
-<br/>
-<br/>
 <br/>
 
 # Author
