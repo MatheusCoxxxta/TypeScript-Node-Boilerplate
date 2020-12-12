@@ -22,24 +22,34 @@
 
 ### Download
 
-`git clone https://github.com/MatheusCoxxxta/TypeScript-Node-Boilerplate.git server`
+```
+git clone https://github.com/MatheusCoxxxta/TypeScript-Node-Boilerplate.git server
+```
 <br/>
 
 ### Install
 
-` cd server`
+```
+cd server
+```
 
-`yarn install`
+```
+yarn install
+```
 <br/>
 
 ### Run
 
-`yarn start`
+```
+yarn start
+```
 <br/>
 
 ### Test
 
-`yarn test`
+```
+yarn test
+```
 <br/>
 
 # Author
