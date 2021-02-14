@@ -18,7 +18,7 @@ class UserController {
     try {
       const user = await User.query().where("id", id);
 
-      return res.status(200).send(user);
+      return res.send(user);
     } catch (error) {
       return res.status(500).send(error);
     }
